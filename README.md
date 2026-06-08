@@ -29,7 +29,7 @@ Phase 1 focused on:
 
 ## Documentation
 
-- [Objective](Home%20Lab%20Phase%201/Objective.md)
+- [Objective](docs/Objective.md)
 - [Network Topology Overview](Home%20Lab%20Phase%201/Network%20Topology%20Overview.md)
 - [IP Addressing Scheme](Home%20Lab%20Phase%201/IP%20Addressing%20Scheme.md)
 - [Device Interface Mapping](Home%20Lab%20Phase%201/Device%20Interface%20Mapping.md)
