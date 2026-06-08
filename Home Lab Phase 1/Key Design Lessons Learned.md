@@ -1,0 +1,4 @@
+- VLAN connectivity is not only dependent on switching configuration but also **return routing**
+- A working forward path does not guarantee bidirectional communication
+- VLAN 99 served as a critical transit/management network for edge routing
+- DHCP relay requires full Layer 3 reachability between client VLANs and DHCP server
