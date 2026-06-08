@@ -30,15 +30,15 @@ Phase 1 focused on:
 ## Documentation
 
 - [Objective](docs/Objective.md)
-- [Network Topology Overview](Home%20Lab%20Phase%201/Network%20Topology%20Overview.md)
-- [IP Addressing Scheme](Home%20Lab%20Phase%201/IP%20Addressing%20Scheme.md)
-- [Device Interface Mapping](Home%20Lab%20Phase%201/Device%20Interface%20Mapping.md)
-- [Routing Design](Home%20Lab%20Phase%201/Routing%20Design.md)
-- [DHCP Configuration](Home%20Lab%20Phase%201/DHCP%20Configuration.md)
-- [Verification Results](Home%20Lab%20Phase%201/Verification%20Results.md)
-- [Troubleshooting Summary](Home%20Lab%20Phase%201/Troubleshooting%20Summary.md)
-- [Key Design Lessons Learned](Home%20Lab%20Phase%201/Key%20Design%20Lessons%20Learned.md)
-- [Phase 1 Conclusion](Home%20Lab%20Phase%201/Phase%201%20Conclusion.md)
+- [Network Topology Overview](docs/Network%20Topology%20Overview.md)
+- [IP Addressing Scheme](docs/IP%20Addressing%20Scheme.md)
+- [Device Interface Mapping](docs/Device%20Interface%20Mapping.md)
+- [Routing Design](docs/Routing%20Design.md)
+- [DHCP Configuration](docs/DHCP%20Configuration.md)
+- [Verification Results](docs/Verification%20Results.md)
+- [Troubleshooting Summary](docs/Troubleshooting%20Summary.md)
+- [Key Design Lessons Learned](docs/Key%20Design%20Lessons%20Learned.md)
+- [Phase 1 Conclusion](docs/Phase%201%20Conclusion.md)
 
 ---
 
