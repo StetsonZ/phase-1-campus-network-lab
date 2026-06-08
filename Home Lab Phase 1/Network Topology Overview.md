@@ -6,5 +6,5 @@
 - ASW1 (Access Switch)
 - ASW2 (Access Switch)
 - End Hosts (My PC)
-![[Pasted image 20260607131804.png]]
+![[Phase 1 Logical Topology.png]]
 ![[IMG_1490.jpeg]]
